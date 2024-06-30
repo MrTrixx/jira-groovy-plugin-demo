@@ -18,7 +18,7 @@
 
     <properties>
         <groovy.version>3.0.21</groovy.version>
-        <jira.version>8.20.30</jira.version>
+        <jira.version>9.4.22</jira.version>
         <amps.version>8.7.0</amps.version>
         <osgi.javaconfig.version>0.6.0</osgi.javaconfig.version>
         <apache.felix.version>4.0.0</apache.felix.version>
